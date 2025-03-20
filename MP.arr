@@ -1,8 +1,8 @@
 use context essentials2021
 ### CS 12 21.2 MP JUST JUMP (Simple Egg Toss Clone) ###
 
-### PURISIMA, ANN GABRIELLE C. - 2021-10796 ###
-### RAMOS, NICO SEBASTIAN B. - 2021-11818 #####
+### PURISIMA, ANN GABRIELLE C. - 2021-10796, Role: Leadership, Tester, Code Review ###
+### RAMOS, NICO SEBASTIAN B. - 2021-11818, Role: Leadership, Tester, Code Review #####
 
 
 include image
